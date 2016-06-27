@@ -4,8 +4,15 @@
         <description><![CDATA[youngfashions]]></description>
         <link>https://thegrid.ai/youngfashions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 08:41:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/youngfashions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://65.media.tumblr.com/25729285568a988fbb5885926b5f527b/tumblr_n6q13uZXHr1swmrupo1_500.jpg">]]></description>
+            <link>https://thegrid.ai/youngfashions/581960f5-1dfe-42ec-8387-971fe779f73c/index.html</link>
+            <guid isPermaLink="false">581960f5-1dfe-42ec-8387-971fe779f73c</guid>
+            <pubDate>Mon, 27 Jun 2016 08:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[100 Years of Beauty: Marshay Awesome vi...]]></title>
             <description><![CDATA[<article><h1>100 Years of Beauty: Marshay Awesome vi...</h1><p>100 Years of Beauty: Marshay Awesome video: Time lapse of a model getting her hair and makeup done to match every decade from 1910 to 2010.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/youngfashions/3536c009-63b1-4350-8a44-9932623d3043/index.html</link>
             <guid isPermaLink="false">3536c009-63b1-4350-8a44-9932623d3043</guid>
             <pubDate>Mon, 27 Jun 2016 07:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@wayofcakes]]></title>
-            <description><![CDATA[<article><h1>@wayofcakes</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cf493e93eca2e6e8701f5c89cf95296/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F13525544_501147473409257_430258976_n.jpg%3Fig_cache_key%3DMTI3OTQxNzU0OTM4NTQ2ODE5Ng%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BHBZ3uGhYkk/?taken-by=blackfashionmag</link>
-            <guid isPermaLink="false">813db3e8-39df-4105-b1fb-e7cbc659ac2b</guid>
-            <pubDate>Mon, 27 Jun 2016 07:51:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
