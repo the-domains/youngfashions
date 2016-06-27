@@ -4,8 +4,15 @@
         <description><![CDATA[youngfashions]]></description>
         <link>https://thegrid.ai/youngfashions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 08:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 08:41:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/youngfashions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://67.media.tumblr.com/d07561eafcfb318617017d9c5dd21b12/tumblr_n69mmgE3251swmrupo1_500.jpg">]]></description>
+            <link>https://thegrid.ai/youngfashions/43f5ccb2-4263-47e2-b0aa-874cbfcb32fa/index.html</link>
+            <guid isPermaLink="false">43f5ccb2-4263-47e2-b0aa-874cbfcb32fa</guid>
+            <pubDate>Mon, 27 Jun 2016 08:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://65.media.tumblr.com/25729285568a988fbb5885926b5f527b/tumblr_n6q13uZXHr1swmrupo1_500.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BF7dHk0kJra/?taken-by=blackfashionmag</link>
             <guid isPermaLink="false">abea499b-50bd-4c98-9cae-408c8f0429e2</guid>
             <pubDate>Mon, 27 Jun 2016 08:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://66.media.tumblr.com/3e477120b71de132f315ca4de8c334f2/tumblr_o9amy1EzQO1qasnrqo1_1280.jpg">]]></description>
-            <link>https://thegrid.ai/youngfashions/3536c009-63b1-4350-8a44-9932623d3043/index.html</link>
-            <guid isPermaLink="false">3536c009-63b1-4350-8a44-9932623d3043</guid>
-            <pubDate>Mon, 27 Jun 2016 07:57:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
