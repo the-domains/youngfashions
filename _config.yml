@@ -1,0 +1,28 @@
+name: youngfashions
+favicon: null
+layout_spectrum: 0.4469440868124366
+typography_spectrum: 0.36388715053908527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8134244089014828
+  lightness: 0.9820654455106705
+  saturation: 0.6874057727400213
+  rhythmicContrast: 0.9693682852666825
+purpose: []
