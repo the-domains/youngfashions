@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[youngfashions]]></title>
-        <description><![CDATA[youngfashions]]></description>
+        <title><![CDATA[YOUNGFASHIONS.CO]]></title>
+        <description><![CDATA[YOUNGFASHIONS.CO]]></description>
         <link>https://thegrid.ai/youngfashions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 16:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 16:44:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/youngfashions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://67.media.tumblr.com/bafe780d430e4b00d839ff9bdcecfcf4/tumblr_nncdwhN5po1qasnrqo1_500.jpg">]]></description>
+            <link>https://thegrid.ai/youngfashions/8ad8160a-6dff-4f22-b710-1f2ef1ff0eab/index.html</link>
+            <guid isPermaLink="false">8ad8160a-6dff-4f22-b710-1f2ef1ff0eab</guid>
+            <pubDate>Mon, 27 Jun 2016 16:43:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://67.media.tumblr.com/901841ce0dedc72d291bda534c1a74de/tumblr_nr9d7enWq61qasnrqo1_1280.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/youngfashions/5b50e9fb-a93a-4653-93da-c9d83336523e/index.html</link>
             <guid isPermaLink="false">5b50e9fb-a93a-4653-93da-c9d83336523e</guid>
             <pubDate>Mon, 27 Jun 2016 08:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://65.media.tumblr.com/beab0ba5dabe40bf8b27bae9eb80cf7d/tumblr_n69mwfkzOE1swmrupo1_500.jpg">]]></description>
-            <link>https://thegrid.ai/youngfashions/2eb0a7a3-b089-43a5-b7ff-ab2caa750cdd/index.html</link>
-            <guid isPermaLink="false">2eb0a7a3-b089-43a5-b7ff-ab2caa750cdd</guid>
-            <pubDate>Mon, 27 Jun 2016 08:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
