@@ -2,6 +2,7 @@ name: youngfashions
 favicon: null
 layout_spectrum: 0.85196
 typography_spectrum: 0.38867
+title: YOUNGFASHIONS.CO
 cta:
   domain: null
   bucket: null
