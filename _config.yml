@@ -1,20 +1,4 @@
-name: youngfashions
-favicon: null
-layout_spectrum: 0.85196
 typography_spectrum: 0.38867
-title: YOUNGFASHIONS.CO
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d3dbe6'
@@ -26,4 +10,22 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.85196
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a7e4b5-8a98-49e8-a4ef-2c9934c8932a.svg
+name: youngfashions
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: YOUNGFASHIONS.CO
 purpose: []
